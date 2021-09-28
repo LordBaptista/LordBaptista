@@ -7,10 +7,10 @@
 <!--<a href="">LinkedIn</a></br>-->
 
 <div style="display:flex; justify-content: space-between;">
-<img src="" width="20px">
+<!--<img src="" width="20px">
 <img src=""20px">
 <img src=""20px">
-<img src=""20px">
+<img src=""20px">-->
 </div>
 </em>
 <br>
